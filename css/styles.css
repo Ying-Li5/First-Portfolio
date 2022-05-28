@@ -1,4 +1,25 @@
-.MyClass {
-    background-color: white;
-    color: slategray;
+h1{
+    text-align: center;
+    color: #607d8b
+}
+
+h2{
+    text-align: center;
+    color: #607d8b;
+}   
+
+h3{
+    color: #607d8b;
+}
+
+p{
+    color: #424242;
+}
+
+li{
+    color:#424242;
+}
+
+.profilepicture {
+    text-align: center;
 }
